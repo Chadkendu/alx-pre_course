@@ -1,1 +1,1 @@
-Alx project on the 
+Alx project on shell and git bash
